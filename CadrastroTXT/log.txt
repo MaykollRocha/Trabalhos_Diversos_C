@@ -1,0 +1,9 @@
+-----TABELA HASH COMPLETA----
+0 | Matricula: 28, Nome: 01/01-/2001, Setor: A -> Matricula: 21, Nome: 01/01-/2001, Setor: A -> Matricula: 14, Nome: 01/01-/2001, Setor: A -> Matricula: 7, Nome: 01/01-/2001, Setor: A -> NULL
+1 | Matricula: 29, Nome: 01/01-/2001, Setor: A -> Matricula: 22, Nome: 01/01-/2001, Setor: A -> Matricula: 15, Nome: 01/01-/2001, Setor: A -> Matricula: 8, Nome: 01/01-/2001, Setor: A -> Matricula: 1, Nome: 01/01-/2001, Setor: A -> NULL
+2 | Matricula: 30, Nome: 01/01-/2001, Setor: A -> Matricula: 23, Nome: 01/01-/2001, Setor: A -> Matricula: 16, Nome: 01/01-/2001, Setor: A -> Matricula: 9, Nome: 01/01-/2001, Setor: A -> Matricula: 2, Nome: 01/01-/2001, Setor: A -> NULL
+3 | Matricula: 24, Nome: 01/01-/2001, Setor: A -> Matricula: 17, Nome: 01/01-/2001, Setor: A -> Matricula: 10, Nome: 01/01-/2001, Setor: A -> Matricula: 3, Nome: 01/01-/2001, Setor: A -> NULL
+4 | Matricula: 25, Nome: 01/01-/2001, Setor: A -> Matricula: 18, Nome: 01/01-/2001, Setor: A -> Matricula: 11, Nome: 01/01-/2001, Setor: A -> Matricula: 4, Nome: 01/01-/2001, Setor: A -> NULL
+5 | Matricula: 26, Nome: 01/01-/2001, Setor: A -> Matricula: 19, Nome: 01/01-/2001, Setor: A -> Matricula: 12, Nome: 01/01-/2001, Setor: A -> Matricula: 5, Nome: 01/01-/2001, Setor: A -> NULL
+6 | Matricula: 27, Nome: 01/01-/2001, Setor: A -> Matricula: 20, Nome: 01/01-/2001, Setor: A -> Matricula: 13, Nome: 01/01-/2001, Setor: A -> Matricula: 6, Nome: 01/01-/2001, Setor: A -> NULL
+-----------------------------
